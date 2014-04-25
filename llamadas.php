@@ -53,7 +53,7 @@
 
 			</div>
 			<div id="questions">
-				<table id="questions_tables" border=1>
+				<table id="questions_tables">
 					<tr><td class="td_questions"colspan=5>1. ¿La atención del ejecutivo de Mesa de Ayuda que atendió su reporte fue:?</td></tr>
 					<tr>
 						<td><input type="radio" name="answer1" value="Excelente">Excelente</td>
