@@ -14,7 +14,7 @@
 
 	border: solid gray;
 	margin: 0 auto;
-	height: 700px;
+	height: 600px;
 	width: 800px;
 }
 
@@ -23,7 +23,7 @@
 	/*border: solid red;*/
 	display: block;
 	height: 35px;
-	margin: 50px auto;
+	margin: 10px auto;
 	width: 350px;
 }
 
@@ -50,31 +50,26 @@ header{
 	display: inline-block;
 	vertical-align: top;
 	margin: 20px 0 0 30px;
-	height: 450px;
+	height: 300px;
 	width: 500px;
-}
-
-#questions_table{
-	border-collapse:separate;
-	border-spacing: 10px;
 }
 
 .td_questions{
 	background: #D8D8D8;
-	margin-bottom:10px;
+
 }
 
-
-
+.tr_answers{
+	
 	
 }
 
 #survey_message{
 
-	border: solid 2px orange;
-	/*display: inline-block;
+	border: solid orange;
+	display: inline-block;
 	height: 80px;
 	vertical-align: top;
-	width: 500px;*/
+	width: 600px;
 
 }

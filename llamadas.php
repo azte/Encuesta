@@ -53,7 +53,7 @@
 
 			</div>
 			<div id="questions">
-				<table id="questions_table">
+				<table id="questions_tables" border=1>
 					<tr><td class="td_questions"colspan=5>1. ¿La atención del ejecutivo de Mesa de Ayuda que atendió su reporte fue:?</td></tr>
 					<tr>
 						<td><input type="radio" name="answer1" value="Excelente">Excelente</td>
@@ -89,9 +89,9 @@
 						<td><input type="radio" name="answer4" value="Muy Malo">Muy Malo</td>
 					</tr>
 
-					<tr><td class="td_questions" colspan=5>5. Comentarios Adicionales?</td></tr>
+					<tr><td colspan=5>5. Comentarios Adicionales?</td></tr>
 					<tr>
-						<td colspan=5><textarea name="comentarios" rows="3" cols="65"></textarea></td>
+						<td colspan=5><textarea name="comentarios" rows="5" cols="60"></textarea></td>
 						
 					</tr>
 
