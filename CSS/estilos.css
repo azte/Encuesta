@@ -1,0 +1,107 @@
+body{
+	color:#2E2E2E;
+	font-family: 'Arimo', Arial;
+
+}
+
+#content{
+	background: white;
+	border:solid 1px gray;
+	border-radius: 10px;
+	height:600px;
+	margin: 10px auto;
+	width: 400px;
+
+}
+
+footer{
+
+	border-top: 1px solid gray;
+	font-size: 12px;
+	margin-top: 75px;
+	text-align: center;
+}
+
+footer p{
+	margin:0;
+}
+
+
+
+h2{
+	/*border: solid yellow;*/
+	margin-top: 35px;
+	text-align: center;
+}
+
+
+#issste{
+	font-size: 18px;
+}
+
+section p{
+	margin-top: 45px;
+	text-align: center;
+}
+
+section button{
+	
+	
+	display: block;
+	font-size: 16px;
+	height: 35px;
+	margin: 0 auto;
+	width: 350px;
+
+}
+
+section figure{
+/*
+	border:solid black;*/
+	display: block;
+	height: 120px;
+	margin: 0 auto;
+	width: 120px;
+	
+}
+
+section figure img{
+	height: 120px;
+	width: 120px;
+
+}
+
+header{
+	/*border: solid red;*/
+	text-align: center;
+}
+
+header p{
+	font-size: 16px;
+	/*border: solid blue;*/
+	margin: 1px 1px;
+}
+
+header .logos{
+	/*border: solid green;*/
+	display: inline-block;
+	height: 100px;
+	margin: 10px;
+	width: 100px;
+
+}
+
+header .logos img{
+	border-radius: 5px;
+	border:solid 1px gray;
+	height: 100px;
+	width: 100px;
+
+}
+
+#mesa{
+	font-size: 30px;
+}
+
+
+

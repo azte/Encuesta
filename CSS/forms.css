@@ -1,0 +1,80 @@
+
+#data_form{
+
+	
+	border: solid pink;
+	display: inline-block;
+	height: 300px;
+	margin: 20px 0 0 20px;
+	width: 200px;
+}
+
+
+#form_content{
+
+	border: solid gray;
+	margin: 0 auto;
+	height: 700px;
+	width: 800px;
+}
+
+#form_content button{
+
+	/*border: solid red;*/
+	display: block;
+	height: 35px;
+	margin: 50px auto;
+	width: 350px;
+}
+
+header{
+	border: solid red;
+	margin: 0 auto;
+	height: 50px;
+	width: 800px;
+}
+
+#form_content figure{
+
+	border: solid blue;
+	display: inline-block;
+	margin: 0;
+	height: 80px;
+	vertical-align: top;
+	width: 80px;
+
+}
+
+#questions{
+	border: solid green;
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px 0 0 30px;
+	height: 450px;
+	width: 500px;
+}
+
+#questions_table{
+	border-collapse:separate;
+	border-spacing: 10px;
+}
+
+.td_questions{
+	background: #D8D8D8;
+	margin-bottom:10px;
+}
+
+
+
+	
+}
+
+#survey_message{
+
+	border: solid 2px orange;
+	/*display: inline-block;
+	height: 80px;
+	vertical-align: top;
+	width: 500px;*/
+
+}
