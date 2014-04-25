@@ -19,6 +19,7 @@
 	<div id="form_content">
 		<figure><img src="#"></figure>
 		<div id="survey_message">
+			<p>LA PRESENTE ENCUESTA SE REALIZA CON LA FINALIDAD DE CONOCER EL GRADO DE SATISFACCIÓN QUE PRESENTA EL SERVICIO DE MESA DE AYUDA Y EN BASE A ELLO, BRINDARLE UN MEJOR SERVICIO</p>
 		</div>
 		<form name="enviar" method="POST">
 			
@@ -89,7 +90,7 @@
 						<td><input type="radio" name="answer4" value="Muy Malo">Muy Malo</td>
 					</tr>
 
-					<tr><td colspan=5>5. Comentarios Adicionales?</td></tr>
+					<tr><td class="td_questions" colspan=5>5. Comentarios Adicionales?</td></tr>
 					<tr>
 						<td colspan=5><textarea name="comentarios" rows="5" cols="60"></textarea></td>
 						
@@ -103,6 +104,7 @@
 
 			
 			</div>
+
 				<button>ENVIAR ENCUESTA</button>
 
 		</form>

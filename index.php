@@ -27,7 +27,10 @@
 			<h2>Encuesta de Satisfacción</h2>
 			<figure><img src="img/service_girl.png"></figure>
 			<p>-Le pedimos tener a la mano su ticket-</p>
-			<button>TOMAR ENCUESTA</button>
+
+			<input id="button"  value="TOMAR ENCUESTA "type="button" onclick="window.location = 'llamadas.php';">
+
+			
 		</section>
 
 		<footer>
