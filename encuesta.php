@@ -21,7 +21,7 @@
 		<div id="survey_message">
 			<p>LA PRESENTE ENCUESTA SE REALIZA CON LA FINALIDAD DE CONOCER EL GRADO DE SATISFACCIÓN QUE PRESENTA EL SERVICIO DE MESA DE AYUDA Y EN BASE A ELLO, BRINDARLE UN MEJOR SERVICIO</p>
 		</div>
-		<form name="enviar" method="POST">
+		<form  action="insertar.php"name="enviar" method="POST">
 			
 			<div id="data_form">
 				<table>
@@ -105,7 +105,7 @@
 			
 			</div>
 
-				<button>ENVIAR ENCUESTA</button>
+			<input id="button"  value="TOMAR ENCUESTA" type="submit">
 
 		</form>
 
